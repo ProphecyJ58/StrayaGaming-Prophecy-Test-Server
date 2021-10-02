@@ -1,6 +1,6 @@
 -- Traffic density parameters
-local vehRoadDensity = 0.0
-local vehParkedDensity = 0.0
+local vehRoadDensity = 0.65
+local vehParkedDensity = 0.8
 
 -- Main thread
 Citizen.CreateThread(function()
